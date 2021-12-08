@@ -1,7 +1,7 @@
 # Pinescript Strategies Repository
 ## Public strategies shared for the TradingView Platform. 
 
-Find them all in the platform on [Tradingview platform here](https://es.tradingview.com/u/JCGMarkets/#published-scripts/?offer_id=10&aff_id=25289) on the script section
+Find them all in the platform on SCRIPT section on [Tradingview profile here](https://es.tradingview.com/u/JCGMarkets/#published-scripts/?offer_id=10&aff_id=25289) 
 
 ## YouTube in English/Spanish explaining
 As well you'll find a youtube channel where those public scripts are explained.
