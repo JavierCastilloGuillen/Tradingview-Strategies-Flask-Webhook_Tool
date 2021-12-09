@@ -1,4 +1,8 @@
 # Pinescript Strategies Repository
+
+## Webhook integration
+Using Flask, we will be able to receive a JSON alert message on our server. 
+
 ## Public strategies shared for the TradingView Platform. 
 
 Find them all in the platform on SCRIPT section on [Tradingview profile here](https://es.tradingview.com/u/JCGMarkets/#published-scripts/?offer_id=10&aff_id=25289) 
