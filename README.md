@@ -9,8 +9,8 @@ Find how [Tradingview Webhooks can help you here.](https://www.tradingview.com/s
 
 Find them all in the platform on SCRIPT section on [Tradingview profile here](https://es.tradingview.com/u/JCGMarkets/#published-scripts/?offer_id=10&aff_id=25289) 
 
-### YouTube in English/Spanish explaining
-As well you'll find a youtube channel where those public scripts are explained.
+### YouTube channel English/Spanish
+As well you'll find a youtube channel where those public scripts or certain procedures such webhook are explained.
 Go to YouTube Channel [here](https://www.youtube.com/channel/UCP96sDHn704yOYJjvDOOOTQ)
 
 ### Disclaimer
